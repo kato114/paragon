@@ -1,0 +1,21 @@
+{
+  "metadata": [
+    {
+      "description": 1,
+      "denom_units": [
+        {
+          "denom": "fuel",
+          "exponent": 0
+        },
+        {
+          "denom": "cmcx",
+          "exponent": 18
+        }
+      ],
+      "base": "fuel",
+      "display": "fuel",
+      "name": "fuel",
+      "symbol": "CMCX"
+    }
+  ]
+}
